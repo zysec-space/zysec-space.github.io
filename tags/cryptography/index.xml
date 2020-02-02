@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cryptography on ZySec</title>
+    <link>http://example.org/tags/cryptography/</link>
+    <description>Recent content in Cryptography on ZySec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mohammadzanil@gmail.com (Mohammed Zanil)</managingEditor>
+    <webMaster>mohammadzanil@gmail.com (Mohammed Zanil)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 04 Jan 2019 12:03:45 +0000</lastBuildDate>
+    
+        <atom:link href="http://example.org/tags/cryptography/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>CrypTool – Fun way to learn Cryptography</title>
+        <link>http://example.org/posts/cryptool/</link>
+        <pubDate>Fri, 04 Jan 2019 12:03:45 +0000</pubDate>
+        <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
+        <guid>http://example.org/posts/cryptool/</guid>
+        <description>A great application for newcomers as well as for the experienced to learn more about various cryptographic protocols and algorithms. CrypTool provides an intuitive graphical interface to play around with various settings of any cryptographic algorithm. Using the tool, one can understand the importance of key length and choice of characters for any encryption scheme.</description>
+      </item>
+      
+    
+  </channel>
+</rss>

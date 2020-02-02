@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on ZySec</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on ZySec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mohammadzanil@gmail.com (Mohammed Zanil)</managingEditor>
+    <webMaster>mohammadzanil@gmail.com (Mohammed Zanil)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 26 Mar 2020 12:03:45 +0000</lastBuildDate>
+    
+        <atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Online Labs</title>
+        <link>http://example.org/tags/online-labs/</link>
+        <pubDate>Thu, 26 Mar 2020 12:03:45 +0000</pubDate>
+        <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
+        <guid>http://example.org/tags/online-labs/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Websites</title>
+        <link>http://example.org/tags/websites/</link>
+        <pubDate>Thu, 26 Mar 2020 12:03:45 +0000</pubDate>
+        <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
+        <guid>http://example.org/tags/websites/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Security&#43;</title>
+        <link>http://example.org/tags/security&#43;/</link>
+        <pubDate>Sun, 05 May 2019 06:40:51 +0900</pubDate>
+        <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
+        <guid>http://example.org/tags/security&#43;/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Curl</title>
+        <link>http://example.org/tags/curl/</link>
+        <pubDate>Wed, 10 Apr 2019 12:03:45 +0000</pubDate>
+        <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
+        <guid>http://example.org/tags/curl/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Terminal</title>
+        <link>http://example.org/tags/terminal/</link>
+        <pubDate>Wed, 10 Apr 2019 12:03:45 +0000</pubDate>
+        <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
+        <guid>http://example.org/tags/terminal/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Tools</title>
+        <link>http://example.org/tags/tools/</link>
+        <pubDate>Wed, 10 Apr 2019 12:03:45 +0000</pubDate>
+        <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
+        <guid>http://example.org/tags/tools/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>VM</title>
+        <link>http://example.org/tags/vm/</link>
+        <pubDate>Wed, 03 Apr 2019 12:03:45 +0000</pubDate>
+        <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
+        <guid>http://example.org/tags/vm/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Windows</title>
+        <link>http://example.org/tags/windows/</link>
+        <pubDate>Wed, 03 Apr 2019 12:03:45 +0000</pubDate>
+        <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
+        <guid>http://example.org/tags/windows/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Linux</title>
+        <link>http://example.org/tags/linux/</link>
+        <pubDate>Sun, 10 Mar 2019 12:03:45 +0000</pubDate>
+        <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
+        <guid>http://example.org/tags/linux/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>NSA</title>
+        <link>http://example.org/tags/nsa/</link>
+        <pubDate>Wed, 06 Mar 2019 12:03:45 +0000</pubDate>
+        <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
+        <guid>http://example.org/tags/nsa/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Subdomain</title>
+        <link>http://example.org/tags/subdomain/</link>
+        <pubDate>Sat, 26 Jan 2019 12:03:45 +0000</pubDate>
+        <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
+        <guid>http://example.org/tags/subdomain/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Certification</title>
+        <link>http://example.org/tags/certification/</link>
+        <pubDate>Tue, 08 Jan 2019 12:03:45 +0000</pubDate>
+        <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
+        <guid>http://example.org/tags/certification/</guid>
+        <description></description>
+      </item>
+      
+      <item>
+        <title>Cryptography</title>
+        <link>http://example.org/tags/cryptography/</link>
+        <pubDate>Fri, 04 Jan 2019 12:03:45 +0000</pubDate>
+        <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
+        <guid>http://example.org/tags/cryptography/</guid>
+        <description></description>
+      </item>
+      
+    
+  </channel>
+</rss>
