@@ -6,8 +6,8 @@
     <description>Recent content in Curl on ZySec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>mohammadzanil@gmail.com (Mohammed Zanil)</managingEditor>
-    <webMaster>mohammadzanil@gmail.com (Mohammed Zanil)</webMaster>
+    <managingEditor>zysec@pm.me (Mohammed Zanil)</managingEditor>
+    <webMaster>zysec@pm.me (Mohammed Zanil)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 10 Apr 2019 12:03:45 +0000</lastBuildDate>
     
@@ -20,7 +20,7 @@
         <title>cURL – Working with forms</title>
         <link>https://zysec-space.github.io/posts/curl_forms/</link>
         <pubDate>Wed, 10 Apr 2019 12:03:45 +0000</pubDate>
-        <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
+        <author>zysec@pm.me (Mohammed Zanil)</author>
         <guid>https://zysec-space.github.io/posts/curl_forms/</guid>
         <description>In the first cURL post, I wrote about how to download files using cURL. I recently got an opportunity to work with forms using cURL. In this post, I will describe about how I used cURL to send a POST request to page containing a form. The objective was to obtain the response from the server after submitting a form.</description>
       </item>
@@ -29,7 +29,7 @@
         <title>cURL – Command line URL tool</title>
         <link>https://zysec-space.github.io/posts/curl/</link>
         <pubDate>Fri, 18 Jan 2019 12:03:45 +0000</pubDate>
-        <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
+        <author>zysec@pm.me (Mohammed Zanil)</author>
         <guid>https://zysec-space.github.io/posts/curl/</guid>
         <description>cURL doesn’t stand for command line URL tool but it is one of the tools available for transferring of files seamlessly through the terminal. cURL is considered an abbreviation for Client URL Request Library. cURL supports multiple network protocols allowing to access files through HTTP(S), FTP(S), SCP to name a few.</description>
       </item>
