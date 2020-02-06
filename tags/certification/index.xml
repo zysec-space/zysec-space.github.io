@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Certification on ZySec</title>
-    <link>http://example.org/tags/certification/</link>
+    <link>https://zysec-space.github.io/tags/certification/</link>
     <description>Recent content in Certification on ZySec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -11,17 +11,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 08 Jan 2019 12:03:45 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/tags/certification/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://zysec-space.github.io/tags/certification/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Practice for your next certification!</title>
-        <link>http://example.org/posts/certification/</link>
+        <link>https://zysec-space.github.io/posts/certification/</link>
         <pubDate>Tue, 08 Jan 2019 12:03:45 +0000</pubDate>
         <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
-        <guid>http://example.org/posts/certification/</guid>
+        <guid>https://zysec-space.github.io/posts/certification/</guid>
         <description>The information security industry has plenty of recognised certifications. At one point or another, you’ll come across a situation where you have to obtain a security certification. It could either be to enhance your knowledge or as a requirement for a particular job that you are aspiring for.
 Doing an online research for pursuing a security certification, I came across SkillSet, a website that offers thousands of practice questions for some of the most commonly recognised security certifications.</description>
       </item>

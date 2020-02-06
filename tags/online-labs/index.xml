@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Online Labs on ZySec</title>
-    <link>http://example.org/tags/online-labs/</link>
+    <link>https://zysec-space.github.io/tags/online-labs/</link>
     <description>Recent content in Online Labs on ZySec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -11,35 +11,35 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 26 Mar 2020 12:03:45 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/tags/online-labs/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://zysec-space.github.io/tags/online-labs/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>New Post</title>
-        <link>http://example.org/posts/page_template/</link>
+        <link>https://zysec-space.github.io/posts/page_template/</link>
         <pubDate>Thu, 26 Mar 2020 12:03:45 +0000</pubDate>
         <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
-        <guid>http://example.org/posts/page_template/</guid>
+        <guid>https://zysec-space.github.io/posts/page_template/</guid>
         <description></description>
       </item>
       
       <item>
         <title>Online Lab – hands on web application testing</title>
-        <link>http://example.org/posts/lab/</link>
+        <link>https://zysec-space.github.io/posts/lab/</link>
         <pubDate>Tue, 26 Mar 2019 12:03:45 +0000</pubDate>
         <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
-        <guid>http://example.org/posts/lab/</guid>
+        <guid>https://zysec-space.github.io/posts/lab/</guid>
         <description>Cross Site Scripting (XSS) is one of the OWASP top 10 web application vulnerabilities. Although Cross Site Request Forgery (CSRF) attack has decreased (reference: OWASP 2017), it is one of the attack that is prominent for web applications. I recently came across an online lab Gruyere, which allows you to test and play around with XSS and CSRF attacks.</description>
       </item>
       
       <item>
         <title>The journey begins…</title>
-        <link>http://example.org/posts/journey/</link>
+        <link>https://zysec-space.github.io/posts/journey/</link>
         <pubDate>Mon, 31 Dec 2018 00:03:45 +0000</pubDate>
         <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
-        <guid>http://example.org/posts/journey/</guid>
+        <guid>https://zysec-space.github.io/posts/journey/</guid>
         <description>Hello there, Thank you for stopping by! 😌 I intend to share my thoughts and learning here to help anyone learn something new or to look at a particular subject from a different perspective. 🧐
  “In learning you will teach, and in teaching you will learn.”
 ― Phil Collins</description>

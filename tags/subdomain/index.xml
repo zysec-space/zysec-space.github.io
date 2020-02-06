@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Subdomain on ZySec</title>
-    <link>http://example.org/tags/subdomain/</link>
+    <link>https://zysec-space.github.io/tags/subdomain/</link>
     <description>Recent content in Subdomain on ZySec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -11,17 +11,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 26 Jan 2019 12:03:45 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/tags/subdomain/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://zysec-space.github.io/tags/subdomain/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Sublist3r – Subdomain enumeration</title>
-        <link>http://example.org/posts/sublister/</link>
+        <link>https://zysec-space.github.io/posts/sublister/</link>
         <pubDate>Sat, 26 Jan 2019 12:03:45 +0000</pubDate>
         <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
-        <guid>http://example.org/posts/sublister/</guid>
+        <guid>https://zysec-space.github.io/posts/sublister/</guid>
         <description>Sublist3r is an information gathering tool written in python for subdomain enumeration. This tool uses OSINT or Open Source Intelligence to gather information from various search engines such as Google, Yahoo, Baidu, Bing and so on.
 The tools is available on GitHub which can be setup by cloning the git repository as below:</description>
       </item>

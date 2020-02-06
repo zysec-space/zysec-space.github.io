@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on ZySec</title>
-    <link>http://example.org/tags/linux/</link>
+    <link>https://zysec-space.github.io/tags/linux/</link>
     <description>Recent content in Linux on ZySec</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -11,17 +11,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 10 Mar 2019 12:03:45 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://zysec-space.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     
     
       
       <item>
         <title>Linux Terminal on Windows 10</title>
-        <link>http://example.org/posts/linux/</link>
+        <link>https://zysec-space.github.io/posts/linux/</link>
         <pubDate>Sun, 10 Mar 2019 12:03:45 +0000</pubDate>
         <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
-        <guid>http://example.org/posts/linux/</guid>
+        <guid>https://zysec-space.github.io/posts/linux/</guid>
         <description>Have you ever been stuck with the windows operating system when you wanted to run some bash commands? Probably, you even downloaded some emulators to run your bash commands! Well, in windows 10, Microsoft has included a feature to allow you to install a Linux distro through the Microsoft Windows Store.</description>
       </item>
       
