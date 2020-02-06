@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VM on ZySec</title>
+    <link>https://zysec-space.github.io/tags/vm/</link>
+    <description>Recent content in VM on ZySec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mohammadzanil@gmail.com (Mohammed Zanil)</managingEditor>
+    <webMaster>mohammadzanil@gmail.com (Mohammed Zanil)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 03 Apr 2019 12:03:45 +0000</lastBuildDate>
+    
+        <atom:link href="https://zysec-space.github.io/tags/vm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Commando VM – a PenTest distro for the windows users</title>
+        <link>https://zysec-space.github.io/posts/commandovm/</link>
+        <pubDate>Wed, 03 Apr 2019 12:03:45 +0000</pubDate>
+        <author>mohammadzanil@gmail.com (Mohammed Zanil)</author>
+        <guid>https://zysec-space.github.io/posts/commandovm/</guid>
+        <description>For long, penetration testers and security enthusiasts have been using tools that are natively built around the linux platform. There are few linux flavours dedicated entirely for this purpose. BackTrack, Kali and Parrot OS are few among them.
+FireEye, a Cyber Security Solutions Provider, has released a new product which runs on top of the windows OS to install more than 140 tools including the most popular ones such as Nmap, Wireshark, Burp Suite, Mimikatz, Hashcat etc.</description>
+      </item>
+      
+    
+  </channel>
+</rss>
