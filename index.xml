@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ZySec</title>
+    <link>https://zysec.space/</link>
+    <description>Recent content on ZySec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>thenytfury@zysec.space (Mohammed Zanil)</managingEditor>
+    <webMaster>thenytfury@zysec.space (Mohammed Zanil)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 05 May 2019 06:40:51 +0900</lastBuildDate>
+    
+        <atom:link href="https://zysec.space/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Security&#43; Certified</title>
+        <link>https://zysec.space/posts/security&#43;/</link>
+        <pubDate>Sun, 05 May 2019 06:40:51 +0900</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/security&#43;/</guid>
+        <description>I am very grateful and happy to share that I have successfully completed my CompTIA Security+ certification. It was indeed a remarkable experience to learn about different threats, tools and technologies that are used in the enterprise to defend against the bad guys from breaking in.
+I would suggest this certification to anyone who is interested in pursuing a career in the InfoSec industry as it gives you a wider perspective and delves deep on certain technical topics.</description>
+      </item>
+      
+      <item>
+        <title>cURL – Working with forms</title>
+        <link>https://zysec.space/posts/curl_forms/</link>
+        <pubDate>Wed, 10 Apr 2019 12:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/curl_forms/</guid>
+        <description>In the first cURL post, I wrote about how to download files using cURL. I recently got an opportunity to work with forms using cURL. In this post, I will describe about how I used cURL to send a POST request to page containing a form. The objective was to obtain the response from the server after submitting a form.</description>
+      </item>
+      
+      <item>
+        <title>Commando VM – a PenTest distro for the windows users</title>
+        <link>https://zysec.space/posts/commandovm/</link>
+        <pubDate>Wed, 03 Apr 2019 12:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/commandovm/</guid>
+        <description>For long, penetration testers and security enthusiasts have been using tools that are natively built around the linux platform. There are few linux flavours dedicated entirely for this purpose. BackTrack, Kali and Parrot OS are few among them.
+FireEye, a Cyber Security Solutions Provider, has released a new product which runs on top of the windows OS to install more than 140 tools including the most popular ones such as Nmap, Wireshark, Burp Suite, Mimikatz, Hashcat etc.</description>
+      </item>
+      
+      <item>
+        <title>Online Lab – hands on web application testing</title>
+        <link>https://zysec.space/posts/lab/</link>
+        <pubDate>Tue, 26 Mar 2019 12:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/lab/</guid>
+        <description>Cross Site Scripting (XSS) is one of the OWASP top 10 web application vulnerabilities. Although Cross Site Request Forgery (CSRF) attack has decreased (reference: OWASP 2017), it is one of the attack that is prominent for web applications. I recently came across an online lab Gruyere, which allows you to test and play around with XSS and CSRF attacks.</description>
+      </item>
+      
+      <item>
+        <title>Linux Terminal on Windows 10</title>
+        <link>https://zysec.space/posts/linux/</link>
+        <pubDate>Sun, 10 Mar 2019 12:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/linux/</guid>
+        <description>Have you ever been stuck with the windows operating system when you wanted to run some bash commands? Probably, you even downloaded some emulators to run your bash commands! Well, in windows 10, Microsoft has included a feature to allow you to install a Linux distro through the Microsoft Windows Store.</description>
+      </item>
+      
+      <item>
+        <title>NSA reveals Ghidra</title>
+        <link>https://zysec.space/posts/ghidra/</link>
+        <pubDate>Wed, 06 Mar 2019 12:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/ghidra/</guid>
+        <description>Ghidra is a Software Reverse Engineering (SRE) framework developed by the National Security Agency which was announced during the RSA 2019 conference. NSA has made the tool available as an open source software allowing and accepting contributions from the community. Its functionality is similar to other reverse engineering softwares such as IDA, Binary Ninja, Capstone etc.</description>
+      </item>
+      
+      <item>
+        <title>Crunch – Create your own wordlist</title>
+        <link>https://zysec.space/posts/crunch/</link>
+        <pubDate>Mon, 04 Mar 2019 12:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/crunch/</guid>
+        <description>Crunch is a wordlist generator useful for password cracking. Sometimes, you don’t want to use large precomputed wordlists and instead you may want to create your own. Crunch is your solution! It is a small but powerful command line tool allowing you to specify the criteria for the wordlists and generate it for you.</description>
+      </item>
+      
+      <item>
+        <title>Sublist3r – Subdomain enumeration</title>
+        <link>https://zysec.space/posts/sublister/</link>
+        <pubDate>Sat, 26 Jan 2019 12:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/sublister/</guid>
+        <description>Sublist3r is an information gathering tool written in python for subdomain enumeration. This tool uses OSINT or Open Source Intelligence to gather information from various search engines such as Google, Yahoo, Baidu, Bing and so on.
+The tools is available on GitHub which can be setup by cloning the git repository as below:</description>
+      </item>
+      
+      <item>
+        <title>cURL – Command line URL tool</title>
+        <link>https://zysec.space/posts/curl/</link>
+        <pubDate>Fri, 18 Jan 2019 12:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/curl/</guid>
+        <description>cURL doesn’t stand for command line URL tool but it is one of the tools available for transferring of files seamlessly through the terminal. cURL is considered an abbreviation for Client URL Request Library. cURL supports multiple network protocols allowing to access files through HTTP(S), FTP(S), SCP to name a few.</description>
+      </item>
+      
+      <item>
+        <title>Hak5 – Trust Your Technolust</title>
+        <link>https://zysec.space/posts/hak5/</link>
+        <pubDate>Sat, 12 Jan 2019 12:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/hak5/</guid>
+        <description>Hak5 is one of the shows/site that I have been following for years. They have been building great tools for the Infosec community since 2005. The famous USB Rubber Ducky, a USB device that mimics a keyboard and enters commands lightning fast, is one of the many products from Hak5.</description>
+      </item>
+      
+      <item>
+        <title>Practice for your next certification!</title>
+        <link>https://zysec.space/posts/certification/</link>
+        <pubDate>Tue, 08 Jan 2019 12:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/certification/</guid>
+        <description>The information security industry has plenty of recognised certifications. At one point or another, you’ll come across a situation where you have to obtain a security certification. It could either be to enhance your knowledge or as a requirement for a particular job that you are aspiring for.
+Doing an online research for pursuing a security certification, I came across SkillSet, a website that offers thousands of practice questions for some of the most commonly recognised security certifications.</description>
+      </item>
+      
+      <item>
+        <title>CrypTool – Fun way to learn Cryptography</title>
+        <link>https://zysec.space/posts/cryptool/</link>
+        <pubDate>Fri, 04 Jan 2019 12:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/cryptool/</guid>
+        <description>A great application for newcomers as well as for the experienced to learn more about various cryptographic protocols and algorithms. CrypTool provides an intuitive graphical interface to play around with various settings of any cryptographic algorithm. Using the tool, one can understand the importance of key length and choice of characters for any encryption scheme.</description>
+      </item>
+      
+      <item>
+        <title>About Me</title>
+        <link>https://zysec.space/about-me/</link>
+        <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/about-me/</guid>
+        <description>Hello 👋🏻
+Thank you for stopping by! ☺️ I am Mohammed Zanil, currently pursuing my masters degree in Information Security from Royal Holloway University of London. My interests in computer science and technology has put me on track in the realm of information security.
+ZySec is about my journey in the InfoSec industry, where the vast majority of topics will be on security [of course!</description>
+      </item>
+      
+      <item>
+        <title>The journey begins…</title>
+        <link>https://zysec.space/posts/journey/</link>
+        <pubDate>Mon, 31 Dec 2018 00:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/journey/</guid>
+        <description>Hello there, Thank you for stopping by! 😌 I intend to share my thoughts and learning here to help anyone learn something new or to look at a particular subject from a different perspective. 🧐
+ “In learning you will teach, and in teaching you will learn.”
+― Phil Collins</description>
+      </item>
+      
+    
+  </channel>
+</rss>

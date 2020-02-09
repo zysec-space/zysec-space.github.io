@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on ZySec</title>
+    <link>https://zysec.space/series/</link>
+    <description>Recent content in Series on ZySec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>thenytfury@zysec.space (Mohammed Zanil)</managingEditor>
+    <webMaster>thenytfury@zysec.space (Mohammed Zanil)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 05 May 2019 06:40:51 +0900</lastBuildDate>
+    
+        <atom:link href="https://zysec.space/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+    
+  </channel>
+</rss>
