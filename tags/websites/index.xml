@@ -9,12 +9,22 @@
     <managingEditor>thenytfury@zysec.space (Mohammed Zanil)</managingEditor>
     <webMaster>thenytfury@zysec.space (Mohammed Zanil)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 03 Apr 2019 12:03:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2020 12:03:45 +0000</lastBuildDate>
     
         <atom:link href="https://zysec.space/tags/websites/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+      
+      <item>
+        <title>ZySec version 2.0</title>
+        <link>https://zysec.space/posts/version-2/</link>
+        <pubDate>Sat, 08 Feb 2020 12:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/version-2/</guid>
+        <description>It’s been a while I had updated my blog. As time flew by, it was time for me to renew my website and so this post is going to be about upgrading ZySec.
+If you visited the first version of my site, you could tell that it was hosted on Wordpress.</description>
+      </item>
       
       <item>
         <title>Commando VM – a PenTest distro for the windows users</title>
