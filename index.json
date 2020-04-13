@@ -18,6 +18,24 @@
 	"content": ""
 },
 {
+	"uri": "https://zysec.space/tags/linux/",
+	"title": "Linux",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://zysec.space/posts/linux_journey/",
+	"title": "Linux Journey",
+	"tags": ["Linux", "Websites"],
+	"categories": [],
+	"series": [""],
+	"description": "",
+	"content": "Learning Linux is something a developer or every security enthusiast would love to do and master it one point in their career. The most common reasons for this include the wide spread use of the platform and ease of tools available for various use cases.\nI recently visited a website Linux Journey recommended by a friend, that helps in learning Linux. Since then, I\u0026rsquo;ve been trying to follow along and refresh my Linux-fu as they call it. The journey is broken down into 3 main sections that helps you start from basic Linux skills such as command line, text editing, user management and system processes to networking topics such as DNS, routing and subnetting on Linux. There are good examples to try out on our systems for hands own understanding and also has a quiz section to test your understanding of a particular topic.\nHope you find this site a good refresher to hone your Linux skills.\n"
+},
+{
 	"uri": "https://zysec.space/posts/",
 	"title": "Posts",
 	"tags": [],
@@ -164,15 +182,6 @@
 {
 	"uri": "https://zysec.space/tags/online-labs/",
 	"title": "Online Labs",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://zysec.space/tags/linux/",
-	"title": "Linux",
 	"tags": [],
 	"categories": [],
 	"series": [],
