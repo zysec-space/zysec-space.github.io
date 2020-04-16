@@ -9,12 +9,22 @@
     <managingEditor>thenytfury@zysec.space (Mohammed Zanil)</managingEditor>
     <webMaster>thenytfury@zysec.space (Mohammed Zanil)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 13 Apr 2020 01:43:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2020 07:50:45 +0000</lastBuildDate>
     
         <atom:link href="https://zysec.space/tags/websites/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+      
+      <item>
+        <title>1.1.1.1 for Families</title>
+        <link>https://zysec.space/posts/1dotfamilies/</link>
+        <pubDate>Wed, 15 Apr 2020 07:50:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/1dotfamilies/</guid>
+        <description>If you haven&amp;rsquo;t heard of 1.1.1.1 (or commonly known as 1 dot) before, it is a fast and secure free DNS resolver provided by Cloudflare. Its popularity has grown so much so that it has become the second largest DNS resolver after Google.
+Since they have become very popular, on 1st April 2020, they have launched 1 dot for families.</description>
+      </item>
       
       <item>
         <title>Linux Journey</title>

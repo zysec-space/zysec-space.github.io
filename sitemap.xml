@@ -4,12 +4,42 @@
   
   <url>
     <loc>https://zysec.space/</loc>
-    <lastmod>2020-04-13T01:43:45+00:00</lastmod>
+    <lastmod>2020-04-15T07:50:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zysec.space/posts/1dotfamilies/</loc>
+    <lastmod>2020-04-15T07:50:45+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://zysec.space/categories/</loc>
-    <lastmod>2020-04-13T01:43:45+00:00</lastmod>
+    <lastmod>2020-04-15T07:50:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zysec.space/tags/dns/</loc>
+    <lastmod>2020-04-15T07:50:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zysec.space/posts/</loc>
+    <lastmod>2020-04-15T07:50:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zysec.space/series/</loc>
+    <lastmod>2020-04-15T07:50:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zysec.space/tags/</loc>
+    <lastmod>2020-04-15T07:50:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zysec.space/tags/websites/</loc>
+    <lastmod>2020-04-15T07:50:45+00:00</lastmod>
   </url>
   
   <url>
@@ -19,26 +49,6 @@
   
   <url>
     <loc>https://zysec.space/posts/linux_journey/</loc>
-    <lastmod>2020-04-13T01:43:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zysec.space/posts/</loc>
-    <lastmod>2020-04-13T01:43:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zysec.space/series/</loc>
-    <lastmod>2020-04-13T01:43:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zysec.space/tags/</loc>
-    <lastmod>2020-04-13T01:43:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zysec.space/tags/websites/</loc>
     <lastmod>2020-04-13T01:43:45+00:00</lastmod>
   </url>
   
