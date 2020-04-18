@@ -9,15 +9,6 @@
 	"content": ""
 },
 {
-	"uri": "https://zysec.space/posts/1dotfamilies/",
-	"title": "1.1.1.1 for Families",
-	"tags": ["Websites", "DNS"],
-	"categories": [],
-	"series": [""],
-	"description": "",
-	"content": "\nIf you haven\u0026rsquo;t heard of 1.1.1.1 (or commonly known as 1 dot) before, it is a fast and secure free DNS resolver provided by Cloudflare. Its popularity has grown so much so that it has become the second largest DNS resolver after Google.\nSince they have become very popular, on 1st April 2020, they have launched 1 dot for families. The primary objective of their new DNS resolvers are to filter out bad sites and to keep adult content from being accessed by kids. Their two new offerings are 1.1.1.2 (malware) and 1.1.1.3 (malware and adult content). If you\u0026rsquo;re using IPv4, then you can configure using these settings:\n Malware Blocking Only  Primary DNS: 1.1.1.2 Secondary DNS: 1.0.0.2   Malware and Adult Content  Primary DNS: 1.1.1.3 Secondary DNS: 1.0.0.3\n    If you\u0026rsquo;re using IPv6, then you can configure using these settings:\n Malware Blocking Only  Primary DNS: 2606:4700:4700::1112 Secondary DNS: 2606:4700:4700::1002   Malware and Adult Content  Primary DNS: 2606:4700:4700::1113 Secondary DNS: 2606:4700:4700::1003\n    During the current situation where many are confined to our homes and working remotely, these settings can provide a better security and enhance your privacy online. You can find the original blog post from Cloudflare here .\n"
-},
-{
 	"uri": "https://zysec.space/categories/",
 	"title": "Categories",
 	"tags": [],
@@ -27,8 +18,17 @@
 	"content": ""
 },
 {
-	"uri": "https://zysec.space/tags/dns/",
-	"title": "DNS",
+	"uri": "https://zysec.space/posts/free_courses/",
+	"title": "Free online learning opportunities",
+	"tags": ["Websites", "Online Learning"],
+	"categories": [],
+	"series": [""],
+	"description": "",
+	"content": "Recently there has been an increase in free course offerings by various providers. Given that we are going through an unprecedented time and are coping up with the situation and staying home, this could be a good opportunity to upskill and learn something new.\nMy favourites are:-\n  Free Microsoft Azure certification   Pluralsight - All Training   AWS - All AWS technology   You can find others below:-\n  ICS Security training by Homeland security   Free Fortinet Certification NSE1 and NSE2   Free Vulnerabilty management training by Nessus   SAN\u0026#39;s free cyber security course   Free training by cisco on Cyber Security   Free training by IBM on almost all IBM technology   Free courses offered by Coursera on Cloud   Oracle University - Cloud Infrastructure and Autonomous Database   Sololearn - All Training   I hope you find some of them useful and can use these platforms to learn something new.\n"
+},
+{
+	"uri": "https://zysec.space/tags/online-learning/",
+	"title": "Online Learning",
 	"tags": [],
 	"categories": [],
 	"series": [],
@@ -65,6 +65,42 @@
 {
 	"uri": "https://zysec.space/tags/websites/",
 	"title": "Websites",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://zysec.space/tags/azure/",
+	"title": "Azure",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://zysec.space/posts/free_azure/",
+	"title": "Free Microsoft Azure Training",
+	"tags": ["Websites", "Azure", "Online Learning"],
+	"categories": [],
+	"series": [""],
+	"description": "",
+	"content": "Microsoft is hosting a free 3 day training for Azure 900 fundamentals course in the month of may. Participants are required to register for all three days where in attendees can receive free vouchers to take the AZ-900 Microsoft Azure Fundamentals certification exam. More details and links to register can be found here More details about the AZ-900 Microsoft Azure Fundamentals certification exam can be found here . Hope you find this useful and ace that certification. Good Luck\n"
+},
+{
+	"uri": "https://zysec.space/posts/1dot_families/",
+	"title": "1.1.1.1 for Families",
+	"tags": ["Websites", "DNS"],
+	"categories": [],
+	"series": [""],
+	"description": "",
+	"content": "\nIf you haven\u0026rsquo;t heard of 1.1.1.1 (or commonly known as 1 dot) before, it is a fast and secure free DNS resolver provided by Cloudflare. Its popularity has grown so much so that it has become the second largest DNS resolver after Google.\nSince they have become very popular, on 1st April 2020, they have launched 1 dot for families. The primary objective of their new DNS resolvers are to filter out bad sites and to keep adult content from being accessed by kids. Their two new offerings are 1.1.1.2 (malware) and 1.1.1.3 (malware and adult content). If you\u0026rsquo;re using IPv4, then you can configure using these settings:\n Malware Blocking Only  Primary DNS: 1.1.1.2 Secondary DNS: 1.0.0.2   Malware and Adult Content  Primary DNS: 1.1.1.3 Secondary DNS: 1.0.0.3\n    If you\u0026rsquo;re using IPv6, then you can configure using these settings:\n Malware Blocking Only  Primary DNS: 2606:4700:4700::1112 Secondary DNS: 2606:4700:4700::1002   Malware and Adult Content  Primary DNS: 2606:4700:4700::1113 Secondary DNS: 2606:4700:4700::1003\n    During the current situation where many are confined to our homes and working remotely, these settings can provide a better security and enhance your privacy online. You can find the original blog post from Cloudflare here .\n"
+},
+{
+	"uri": "https://zysec.space/tags/dns/",
+	"title": "DNS",
 	"tags": [],
 	"categories": [],
 	"series": [],
@@ -141,7 +177,7 @@
 	"categories": [],
 	"series": [""],
 	"description": "",
-	"content": "In the first cURL post, I wrote about how to download files using cURL. I recently got an opportunity to work with forms using cURL. In this post, I will describe about how I used cURL to send a POST request to page containing a form. The objective was to obtain the response from the server after submitting a form. The form contained three text boxes with id’s that could be used to submit the form using cURL. The man page for cURL has plenty of options that can be used to get this done. Hence going through the man page is highly advised.\nThe default request cURL performs is a POST request and hence it is not required in our code. However, it can be mentioned using -X option, to change in case of GET requests. (I like mentioning it, so that I know what has to be done in case of GET requests!) In order to submit data along with our request, we need to use –data or -d option to specify the fields, which can be separated by an \u0026amp; symbol and written together. If the data you want to insert contains special characters, you can use –data-urlencode option for that particular field. Assuming the three text boxes are id, name and age, the curl command will look like this: curl http://website.com/page.php -X POST --data \u0026quot;id=1\u0026quot; -d \u0026quot;name=Bob\u0026amp;age=15\u0026quot;\nThe server responds with a success message informing the data has been stored. If the server also requires you pass a cookie in order to perform this action, you can do so using the -b option for raw cookie data. If two cookies are required, it should be in the format “cookie1=data1; cookie2=data2” If the = symbol is not used, it will treat that as filename where cookie details are specified. curl http://website.com/page.php -X POST -d \u0026quot;id=1\u0026quot; -d \u0026quot;name=Bob\u0026amp;age=15\u0026quot; -b \u0026quot;auth=user\u0026quot;\nThere are plenty of options with cookies including files, that are received from the server or a file that is being sent from the client side. In such cases, cookies can also be specified using the -c option. As mentioned earlier, going through the man page comes in handy in situations like these.\nHope some of these comes in handy to you when working with forms and playing around with cURL.\n"
+	"content": "In the first cURL post, I wrote about how to download files using cURL. I recently got an opportunity to work with forms using cURL. In this post, I will describe about how I used cURL to send a POST request to page containing a form. The objective was to obtain the response from the server after submitting a form. The form contained three text boxes with id’s that could be used to submit the form using cURL. The man page for cURL has plenty of options that can be used to get this done. Hence going through the man page is highly advised.\nThe default request cURL performs is a POST request and hence it is not required in our code. However, it can be mentioned using -X option, to change in case of GET requests. (I like mentioning it, so that I know what has to be done in case of GET requests!) In order to submit data along with our request, we need to use –data or -d option to specify the fields, which can be separated by an \u0026amp; symbol and written together. If the data you want to insert contains special characters, you can use –data-urlencode option for that particular field. Assuming the three text boxes are id, name and age, the curl command will look like this:\ncurl http://website.com/page.php -X POST --data \u0026quot;id=1\u0026quot; -d \u0026quot;name=Bob\u0026amp;age=15\u0026quot;\nThe server responds with a success message informing the data has been stored. If the server also requires you pass a cookie in order to perform this action, you can do so using the -b option for raw cookie data. If two cookies are required, it should be in the format “cookie1=data1; cookie2=data2” If the = symbol is not used, it will treat that as filename where cookie details are specified.\ncurl http://website.com/page.php -X POST -d \u0026quot;id=1\u0026quot; -d \u0026quot;name=Bob\u0026amp;age=15\u0026quot; -b \u0026quot;auth=user\u0026quot;\nThere are plenty of options with cookies including files, that are received from the server or a file that is being sent from the client side. In such cases, cookies can also be specified using the -c option. As mentioned earlier, going through the man page comes in handy in situations like these.\nHope some of these comes in handy to you when working with forms and playing around with cURL.\n"
 },
 {
 	"uri": "https://zysec.space/tags/terminal/",

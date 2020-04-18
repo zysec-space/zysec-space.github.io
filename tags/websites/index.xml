@@ -9,7 +9,7 @@
     <managingEditor>thenytfury@zysec.space (Mohammed Zanil)</managingEditor>
     <webMaster>thenytfury@zysec.space (Mohammed Zanil)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 15 Apr 2020 07:50:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2020 04:03:45 +0000</lastBuildDate>
     
         <atom:link href="https://zysec.space/tags/websites/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,11 +17,31 @@
     
       
       <item>
+        <title>Free online learning opportunities</title>
+        <link>https://zysec.space/posts/free_courses/</link>
+        <pubDate>Sat, 18 Apr 2020 04:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/free_courses/</guid>
+        <description>Recently there has been an increase in free course offerings by various providers. Given that we are going through an unprecedented time and are coping up with the situation and staying home, this could be a good opportunity to upskill and learn something new.
+My favourites are:-
+  Free Microsoft Azure certification   Pluralsight - All Training   AWS - All AWS technology   You can find others below:-</description>
+      </item>
+      
+      <item>
+        <title>Free Microsoft Azure Training</title>
+        <link>https://zysec.space/posts/free_azure/</link>
+        <pubDate>Fri, 17 Apr 2020 12:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/free_azure/</guid>
+        <description>Microsoft is hosting a free 3 day training for Azure 900 fundamentals course in the month of may. Participants are required to register for all three days where in attendees can receive free vouchers to take the AZ-900 Microsoft Azure Fundamentals certification exam. More details and links to register can be found here More details about the AZ-900 Microsoft Azure Fundamentals certification exam can be found here .</description>
+      </item>
+      
+      <item>
         <title>1.1.1.1 for Families</title>
-        <link>https://zysec.space/posts/1dotfamilies/</link>
+        <link>https://zysec.space/posts/1dot_families/</link>
         <pubDate>Wed, 15 Apr 2020 07:50:45 +0000</pubDate>
         <author>thenytfury@zysec.space (Mohammed Zanil)</author>
-        <guid>https://zysec.space/posts/1dotfamilies/</guid>
+        <guid>https://zysec.space/posts/1dot_families/</guid>
         <description>If you haven&amp;rsquo;t heard of 1.1.1.1 (or commonly known as 1 dot) before, it is a fast and secure free DNS resolver provided by Cloudflare. Its popularity has grown so much so that it has become the second largest DNS resolver after Google.
 Since they have become very popular, on 1st April 2020, they have launched 1 dot for families.</description>
       </item>
