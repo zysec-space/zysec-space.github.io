@@ -9,12 +9,22 @@
     <managingEditor>thenytfury@zysec.space (Mohammed Zanil)</managingEditor>
     <webMaster>thenytfury@zysec.space (Mohammed Zanil)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 18 Apr 2020 04:03:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2020 05:03:45 +0000</lastBuildDate>
     
         <atom:link href="https://zysec.space/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
+      
+      <item>
+        <title>Is BGP safe?</title>
+        <link>https://zysec.space/posts/isbgpsafe/</link>
+        <pubDate>Sun, 19 Apr 2020 05:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/isbgpsafe/</guid>
+        <description>Cloudflare recently published a new site that can check if your ISP is using security measures to route the traffic over the internet. Is BGP Safe Yet checks whether your Internet Service Provider (ISP) has security filters and measures in place that can make BGP stable and secure.
+There are interactive diagrams on the page where you can see how a BGP request would travel under normal conditions and if it is hijacked as shown below:</description>
+      </item>
       
       <item>
         <title>Free online learning opportunities</title>
@@ -33,7 +43,7 @@ My favourites are:-
         <pubDate>Fri, 17 Apr 2020 12:03:45 +0000</pubDate>
         <author>thenytfury@zysec.space (Mohammed Zanil)</author>
         <guid>https://zysec.space/posts/free_azure/</guid>
-        <description>Microsoft is hosting free 3 day training for Azure 900 fundamentals course in the month of may. Participants are required to register for all three days where in attendees can receive free voucher to take the AZ-900 Microsoft Azure Fundamentals certification exam. More details and links to register can be found here More details about the AZ-900 Microsoft Azure Fundamentals certification exam can be found here .</description>
+        <description>Microsoft is hosting free 3 day training for Azure 900 fundamentals course in the month of may. Participants are required to register for all three days where in attendees can receive free voucher to take the AZ-900 Microsoft Azure Fundamentals certification exam. More details and links to register can be found here More details about the AZ-900 Microsoft Azure Fundamentals certification exam can be found here Hope you find this useful and ace that certification.</description>
       </item>
       
       <item>

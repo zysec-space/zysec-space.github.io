@@ -18,22 +18,22 @@
 	"content": ""
 },
 {
-	"uri": "https://zysec.space/posts/free_courses/",
-	"title": "Free online learning opportunities",
-	"tags": ["Websites", "Online Learning"],
-	"categories": [],
-	"series": [""],
-	"description": "",
-	"content": "Recently there has been an increase in free course offerings by various providers. Given that we are going through an unprecedented time and are coping up with the situation and staying home, this could be a good opportunity to upskill and learn something new.\nMy favourites are:-\n  Free Microsoft Azure certification   Pluralsight - All Training   AWS - All AWS technology   You can find others below:-\n  ICS Security training by Homeland security   Free Fortinet Certification NSE1 and NSE2   Free Vulnerabilty management training by Nessus   SAN\u0026#39;s free cyber security course   Free training by cisco on Cyber Security   Free training by IBM on almost all IBM technology   Free courses offered by Coursera on Cloud   Oracle University - Cloud Infrastructure and Autonomous Database   Sololearn - All Training   I hope you find some of them useful and can use these platforms to learn something new.\n"
-},
-{
-	"uri": "https://zysec.space/tags/online-learning/",
-	"title": "Online Learning",
+	"uri": "https://zysec.space/tags/internet/",
+	"title": "Internet",
 	"tags": [],
 	"categories": [],
 	"series": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "https://zysec.space/posts/isbgpsafe/",
+	"title": "Is BGP safe?",
+	"tags": ["Websites", "Internet"],
+	"categories": [],
+	"series": [""],
+	"description": "",
+	"content": "Cloudflare recently published a new site that can check if your ISP is using security measures to route the traffic over the internet. Is BGP Safe Yet checks whether your Internet Service Provider (ISP) has security filters and measures in place that can make BGP stable and secure.\nThere are interactive diagrams on the page where you can see how a BGP request would travel under normal conditions and if it is hijacked as shown below:\n\n\n\nHow are they doing it? The site offers a valid and an invalid route for loading pages from the internet. If your ISP identifies the bad route and only goes through the valid route, it passes the test. Otherwise, if both the routes are accepted by the ISP, then it implies that your ISP isn\u0026rsquo;t filtering the bad routes.\nWhat is BGP anyway? BGP or Border Gateway Protocol is one of the important routing protocol that is responsible for the internet to function properly. An Autonomous System (or AS) is a network or collection of networks that is managed by one or more network providers or an organisation. BGP is responsible for routing the data from one AS to another through the internet based on shortest route and few other preferences/settings of the AS\u0026rsquo;s. In other words, BGP gets the content delivered through the big ocean, that is the internet.\nIs it dangerous or should you care? Well, yes. If these BGPs are accidentally advertising wrong routes or if they are hijacked by malicious actors, then there could be severe consequences. There are a few cases of this happening in the past where there was a large scale outage of various websites. If it is hijacked, it could be for spying or performing a Denial Of Service (DOS) attack.\nIt would be great when all the ISPs and other internet giants implements the necessary measures (a certification system called RPKI or Resource Public Key Infrastructure) to ensure BGP routing is secure. You can find more about RPKI from the Cloudflare blog here. Until then, lets wait and hope there isn\u0026rsquo;t another BGP leak on the internet anytime soon.\n"
 },
 {
 	"uri": "https://zysec.space/posts/",
@@ -72,6 +72,24 @@
 	"content": ""
 },
 {
+	"uri": "https://zysec.space/posts/free_courses/",
+	"title": "Free online learning opportunities",
+	"tags": ["Websites", "Online Learning"],
+	"categories": [],
+	"series": [""],
+	"description": "",
+	"content": "Recently there has been an increase in free course offerings by various providers. Given that we are going through an unprecedented time and are coping up with the situation and staying home, this could be a good opportunity to upskill and learn something new.\nMy favourites are:-\n  Free Microsoft Azure certification   Pluralsight - All Training   AWS - All AWS technology   You can find others below:-\n  ICS Security training by Homeland security   Free Fortinet Certification NSE1 and NSE2   Free Vulnerabilty management training by Nessus   SAN\u0026#39;s free cyber security course   Free training by cisco on Cyber Security   Free training by IBM on almost all IBM technology   Free courses offered by Coursera on Cloud   Oracle University - Cloud Infrastructure and Autonomous Database   Sololearn - All Training   I hope you find some of them useful and can use these platforms to learn something new.\n"
+},
+{
+	"uri": "https://zysec.space/tags/online-learning/",
+	"title": "Online Learning",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://zysec.space/tags/azure/",
 	"title": "Azure",
 	"tags": [],
@@ -87,7 +105,7 @@
 	"categories": [],
 	"series": [""],
 	"description": "",
-	"content": "Microsoft is hosting free 3 day training for Azure 900 fundamentals course in the month of may. Participants are required to register for all three days where in attendees can receive free voucher to take the AZ-900 Microsoft Azure Fundamentals certification exam. More details and links to register can be found here More details about the AZ-900 Microsoft Azure Fundamentals certification exam can be found here . Hope you find this useful and ace that certification. Good Luck ☺️\n"
+	"content": "Microsoft is hosting free 3 day training for Azure 900 fundamentals course in the month of may. Participants are required to register for all three days where in attendees can receive free voucher to take the AZ-900 Microsoft Azure Fundamentals certification exam. More details and links to register can be found here More details about the AZ-900 Microsoft Azure Fundamentals certification exam can be found here Hope you find this useful and ace that certification. Good Luck ☺️\n"
 },
 {
 	"uri": "https://zysec.space/posts/1dot_families/",

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet on ZySec</title>
+    <link>https://zysec.space/tags/internet/</link>
+    <description>Recent content in Internet on ZySec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>thenytfury@zysec.space (Mohammed Zanil)</managingEditor>
+    <webMaster>thenytfury@zysec.space (Mohammed Zanil)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 19 Apr 2020 05:03:45 +0000</lastBuildDate>
+    
+        <atom:link href="https://zysec.space/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+      
+      <item>
+        <title>Is BGP safe?</title>
+        <link>https://zysec.space/posts/isbgpsafe/</link>
+        <pubDate>Sun, 19 Apr 2020 05:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/isbgpsafe/</guid>
+        <description>Cloudflare recently published a new site that can check if your ISP is using security measures to route the traffic over the internet. Is BGP Safe Yet checks whether your Internet Service Provider (ISP) has security filters and measures in place that can make BGP stable and secure.
+There are interactive diagrams on the page where you can see how a BGP request would travel under normal conditions and if it is hijacked as shown below:</description>
+      </item>
+      
+    
+  </channel>
+</rss>
