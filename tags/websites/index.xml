@@ -9,12 +9,22 @@
     <managingEditor>thenytfury@zysec.space (Mohammed Zanil)</managingEditor>
     <webMaster>thenytfury@zysec.space (Mohammed Zanil)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 19 Apr 2020 05:03:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2020 12:03:45 +0000</lastBuildDate>
     
-        <atom:link href="https://zysec.space/tags/websites/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://zysec.space/tags/websites/index.xml" rel="self" type="application/rss+xml"/>
     
     
     
+      
+      <item>
+        <title>The Bash Bunny</title>
+        <link>https://zysec.space/posts/bashbunny/</link>
+        <pubDate>Mon, 11 May 2020 12:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/bashbunny/</guid>
+        <description>I have decided to learn and have fun with a new tool called the Bash Bunny by Hak5. I have decided to create a series of posts dedicated to this learning journey.
+In this introductory post, i&amp;rsquo;ll explain what the Bash Bunny is. It looks like a normal USB device with an LED and a switch on it.</description>
+      </item>
       
       <item>
         <title>Is BGP safe?</title>

@@ -9,6 +9,15 @@
 	"content": ""
 },
 {
+	"uri": "https://zysec.space/tags/bash-bunny/",
+	"title": "Bash Bunny",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://zysec.space/categories/",
 	"title": "Categories",
 	"tags": [],
@@ -16,24 +25,6 @@
 	"series": [],
 	"description": "",
 	"content": ""
-},
-{
-	"uri": "https://zysec.space/tags/internet/",
-	"title": "Internet",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://zysec.space/posts/isbgpsafe/",
-	"title": "Is BGP safe?",
-	"tags": ["Websites", "Internet"],
-	"categories": [],
-	"series": [""],
-	"description": "",
-	"content": "Cloudflare recently published a new site that can check if your ISP is using security measures to route the traffic over the internet. Is BGP Safe Yet checks whether your Internet Service Provider (ISP) has security filters and measures in place that can make BGP stable and secure.\nThere are interactive diagrams on the page where you can see how a BGP request would travel under normal conditions and if it is hijacked as shown below:\n\n\n\nHow are they doing it? The site offers a valid and an invalid route for loading pages from the internet. If your ISP identifies the bad route and only goes through the valid route, it passes the test. Otherwise, if both the routes are accepted by the ISP, then it implies that your ISP isn\u0026rsquo;t filtering the bad routes.\nWhat is BGP anyway? BGP or Border Gateway Protocol is one of the important routing protocol that is responsible for the internet to function properly. An Autonomous System (or AS) is a network or collection of networks that is managed by one or more network providers or an organisation. BGP is responsible for routing the data from one AS to another through the internet based on shortest route and few other preferences/settings of the AS\u0026rsquo;s. In other words, BGP gets the content delivered through the big ocean, that is the internet.\nIs it dangerous or should you care? Well, yes. If these BGPs are accidentally advertising wrong routes or if they are hijacked by malicious actors, then there could be severe consequences. There are a few cases of this happening in the past where there was a large scale outage of various websites. If it is hijacked, it could be for spying or performing a Denial Of Service (DOS) attack.\nIt would be great when all the ISPs and other internet giants implements the necessary measures (a certification system called RPKI or Resource Public Key Infrastructure) to ensure BGP routing is secure. You can find more about RPKI from the Cloudflare blog here. Until then, lets wait and hope there isn\u0026rsquo;t another BGP leak on the internet anytime soon.\n"
 },
 {
 	"uri": "https://zysec.space/posts/",
@@ -63,6 +54,24 @@
 	"content": ""
 },
 {
+	"uri": "https://zysec.space/posts/bashbunny/",
+	"title": "The Bash Bunny",
+	"tags": ["Bash Bunny", "Tools", "Websites"],
+	"categories": [],
+	"series": [""],
+	"description": "",
+	"content": " I have decided to learn and have fun with a new tool called the Bash Bunny by Hak5. I have decided to create a series of posts dedicated to this learning journey.\nIn this introductory post, i\u0026rsquo;ll explain what the Bash Bunny is. It looks like a normal USB device with an LED and a switch on it. You might be wondering why is there a switch on a normal USB? Well, that is one of the strengths of the Bash Bunny and it helps in automation or running scripts. The Bash Bunny is a simple and powerful multi-function USB attack platform. So what exactly can you do with the Bash Bunny?\nThe Bash Bunny emulates a combination of USB devices that computers inherently trust like gigabit ethernet, serial, flash storage and a keyboard. It also gives you a full linux terminal. When plugged in to a machine, you decide what the computer should recognise this device as. With a multi positional switch, you have three switch position to choose from including the configuration mode - AKA \u0026ldquo;arming mode\u0026rdquo;, which is the the switch position closest to the USB head or sometimes also referred to as \u0026ldquo;Switch 3\u0026rdquo;. Therefore, you have two positions \u0026ldquo;Switch 1\u0026rdquo; and \u0026ldquo;Switch 2\u0026rdquo; for carrying out your attack (Note:- You could also use the arming mode as an attack position, although it is only recommended for advanced users). Here\u0026rsquo;s a diagram explaining the switch positions from Hak5:\n While the Bash Bunny is plugged in using arming mode, it allows you to configure payloads for various attacks. The arming mode also allows you to connect through serial and access the linux terminal of your Bash Bunny. A simple bunny script that is easy to read and understand, is saved in a text file in the corresponding switch folder (say, Switch 1), which triggers the payload when the bunny is inserted with switch at respective position (in this case, switch 1 - farthest away from the USB head).\nThe attack specified in the payload, firstly, could include the Bash Bunny being used as an Ethernet device - allowing you to bring your own network. The Bunny serves as a DHCP server and the computer plugged in to, receives an IP address from the bash bunny allowing you to carry out various network related attacks. Secondly, the Bash Bunny can be configured as a USB keyboard that can inject keystrokes to the plugged in computer. It builds up on another famous Hak5 gear - the USB Rubber Ducky. It mimics a USB keyboard and inputs the command that an attacker would like to execute on the machine. Thirdly, the Bash Bunny can be used as a storage device allowing you to move files across the victim machine. Most of all, you can use these attack modes in combination with each other allowing you to leverage the complete power of the Bash Bunny! Wonder what the LED is for? It can be used to give an indication to the attacker as to what stage the payload is in. You can configure the colour, speed and the blink pattern to notify when the payload is loading, attacking or completed with success or failure.\nThe Hak5 team has done so well with the documentation of the Bash Bunny making it easier for anyone to start playing around with the Bash Bunny as soon as possible. You can find the wiki here. They also encourage the community to develop payloads and share to their Github repository, where you can find many other payloads for the Bash Bunny.\nI hope this post helped you understand what the Bash Bunny is and gave you an opportunity to imagine the various attacks that could be possible from this USB device.\n"
+},
+{
+	"uri": "https://zysec.space/tags/tools/",
+	"title": "Tools",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://zysec.space/tags/websites/",
 	"title": "Websites",
 	"tags": [],
@@ -70,6 +79,24 @@
 	"series": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "https://zysec.space/tags/internet/",
+	"title": "Internet",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://zysec.space/posts/isbgpsafe/",
+	"title": "Is BGP safe?",
+	"tags": ["Websites", "Internet"],
+	"categories": [],
+	"series": [""],
+	"description": "",
+	"content": "Cloudflare recently published a new site that can check if your ISP is using security measures to route the traffic over the internet. Is BGP Safe Yet checks whether your Internet Service Provider (ISP) has security filters and measures in place that can make BGP stable and secure.\nThere are interactive diagrams on the page where you can see how a BGP request would travel under normal conditions and if it is hijacked as shown below:\n\n\n\nHow are they doing it? The site offers a valid and an invalid route for loading pages from the internet. If your ISP identifies the bad route and only goes through the valid route, it passes the test. Otherwise, if both the routes are accepted by the ISP, then it implies that your ISP isn\u0026rsquo;t filtering the bad routes.\nWhat is BGP anyway? BGP or Border Gateway Protocol is one of the important routing protocol that is responsible for the internet to function properly. An Autonomous System (or AS) is a network or collection of networks that is managed by one or more network providers or an organisation. BGP is responsible for routing the data from one AS to another through the internet based on shortest route and few other preferences/settings of the AS\u0026rsquo;s. In other words, BGP gets the content delivered through the big ocean, that is the internet.\nIs it dangerous or should you care? Well, yes. If these BGPs are accidentally advertising wrong routes or if they are hijacked by malicious actors, then there could be severe consequences. There are a few cases of this happening in the past where there was a large scale outage of various websites. If it is hijacked, it could be for spying or performing a Denial Of Service (DOS) attack.\nIt would be great when all the ISPs and other internet giants implements the necessary measures (a certification system called RPKI or Resource Public Key Infrastructure) to ensure BGP routing is secure. You can find more about RPKI from the Cloudflare blog here. Until then, lets wait and hope there isn\u0026rsquo;t another BGP leak on the internet anytime soon.\n"
 },
 {
 	"uri": "https://zysec.space/posts/free_courses/",
@@ -200,15 +227,6 @@
 {
 	"uri": "https://zysec.space/tags/terminal/",
 	"title": "Terminal",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://zysec.space/tags/tools/",
-	"title": "Tools",
 	"tags": [],
 	"categories": [],
 	"series": [],
