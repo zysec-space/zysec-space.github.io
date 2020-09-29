@@ -9,12 +9,22 @@
     <managingEditor>thenytfury@zysec.space (Mohammed Zanil)</managingEditor>
     <webMaster>thenytfury@zysec.space (Mohammed Zanil)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 23 May 2020 12:03:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 12:03:45 +0000</lastBuildDate>
     
         <atom:link href="https://zysec.space/posts/index.xml" rel="self" type="application/rss+xml"/>
     
     
     
+      
+      <item>
+        <title>Quick Update</title>
+        <link>https://zysec.space/posts/quickupdate/</link>
+        <pubDate>Mon, 28 Sep 2020 12:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/quickupdate/</guid>
+        <description>Hello there! Thank you for stopping by again. It has been a while since I updated my blog. Well, as you are already aware of the events happening around the globe, I have been (and am still) trying to hold myself up!
+During the summer, I was working on my master&amp;rsquo;s thesis, which was an exercise of both, success and failure (more on this later)!</description>
+      </item>
       
       <item>
         <title>Free VMware Learning Zone Premium Package</title>

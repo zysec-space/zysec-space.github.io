@@ -9,8 +9,53 @@
 	"content": ""
 },
 {
+	"uri": "https://zysec.space/tags/azure/",
+	"title": "Azure",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
 	"uri": "https://zysec.space/categories/",
 	"title": "Categories",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://zysec.space/posts/",
+	"title": "Posts",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://zysec.space/posts/quickupdate/",
+	"title": "Quick Update",
+	"tags": ["Azure"],
+	"categories": [],
+	"series": [""],
+	"description": "",
+	"content": "Hello there! Thank you for stopping by again. It has been a while since I updated my blog. Well, as you are already aware of the events happening around the globe, I have been (and am still) trying to hold myself up!\nDuring the summer, I was working on my master\u0026rsquo;s thesis, which was an exercise of both, success and failure (more on this later)! With tremendous support from my family, friends and my project supervisor, I successfully submitted the thesis last month!\nDue to the pandemic, my internship came to an abrupt end in June. I have been looking for new roles and opportunities since then. On the brighter side, I also decided to keep myself occupied and upskill. As a result, I was fortunate to successfully clear the Microsoft Azure Fundamentals certification (AZ-900) exam.\nYou can view my achievements here. I am hoping to write more blogs over the coming days! In the meantime, I hope you are keeping well and staying safe 😊\n"
+},
+{
+	"uri": "https://zysec.space/series/",
+	"title": "Series",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://zysec.space/tags/",
+	"title": "Tags",
 	"tags": [],
 	"categories": [],
 	"series": [],
@@ -29,33 +74,6 @@
 {
 	"uri": "https://zysec.space/tags/online-learning/",
 	"title": "Online Learning",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://zysec.space/posts/",
-	"title": "Posts",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://zysec.space/series/",
-	"title": "Series",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
-},
-{
-	"uri": "https://zysec.space/tags/",
-	"title": "Tags",
 	"tags": [],
 	"categories": [],
 	"series": [],
@@ -124,15 +142,6 @@
 	"series": [""],
 	"description": "",
 	"content": "Recently there has been an increase in free course offerings by various providers. Given that we are going through an unprecedented time and are coping up with the situation and staying home, this could be a good opportunity to upskill and learn something new.\nMy favourites are:-\n  Free Microsoft Azure certification   Pluralsight - All Training   AWS - All AWS technology   You can find others below:-\n  ICS Security training by Homeland security   Free Fortinet Certification NSE1 and NSE2   Free Vulnerabilty management training by Nessus   SAN\u0026#39;s free cyber security course   Free training by cisco on Cyber Security   Free training by IBM on almost all IBM technology   Free courses offered by Coursera on Cloud   Oracle University - Cloud Infrastructure and Autonomous Database   Sololearn - All Training   I hope you find some of them useful and can use these platforms to learn something new.\n"
-},
-{
-	"uri": "https://zysec.space/tags/azure/",
-	"title": "Azure",
-	"tags": [],
-	"categories": [],
-	"series": [],
-	"description": "",
-	"content": ""
 },
 {
 	"uri": "https://zysec.space/posts/free_azure/",
