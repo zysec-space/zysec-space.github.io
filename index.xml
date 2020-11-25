@@ -9,12 +9,21 @@
     <managingEditor>thenytfury@zysec.space (Mohammed Zanil)</managingEditor>
     <webMaster>thenytfury@zysec.space (Mohammed Zanil)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 28 Sep 2020 12:03:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2020 12:03:45 +0000</lastBuildDate>
     
         <atom:link href="https://zysec.space/index.xml" rel="self" type="application/rss+xml"/>
     
     
     
+      
+      <item>
+        <title>Installing Nessus</title>
+        <link>https://zysec.space/posts/installing_nessus/</link>
+        <pubDate>Mon, 23 Nov 2020 12:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/installing_nessus/</guid>
+        <description>One of the most common vulnerability assessment tool available is Nessus by Tenable. It was on my &amp;ldquo;To Do&amp;rdquo; list for a while, especially after I came across Qualys community edition scanner, which allows for unlimited vulnerability scanning for one application URL. As Qualys provides a cloud-based scanner, they only require you to register for a free account and get moving from there.</description>
+      </item>
       
       <item>
         <title>Quick Update</title>

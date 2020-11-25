@@ -9,8 +9,8 @@
 	"content": ""
 },
 {
-	"uri": "https://zysec.space/tags/azure/",
-	"title": "Azure",
+	"uri": "https://zysec.space/categories/",
+	"title": "Categories",
 	"tags": [],
 	"categories": [],
 	"series": [],
@@ -18,8 +18,17 @@
 	"content": ""
 },
 {
-	"uri": "https://zysec.space/categories/",
-	"title": "Categories",
+	"uri": "https://zysec.space/posts/installing_nessus/",
+	"title": "Installing Nessus",
+	"tags": ["Nessus", "Vulnerability Scanners"],
+	"categories": [],
+	"series": [""],
+	"description": "",
+	"content": "One of the most common vulnerability assessment tool available is Nessus by Tenable. It was on my \u0026ldquo;To Do\u0026rdquo; list for a while, especially after I came across Qualys community edition scanner, which allows for unlimited vulnerability scanning for one application URL. As Qualys provides a cloud-based scanner, they only require you to register for a free account and get moving from there.\nSo today, I decided to install Nessus and give it a try. In this post, I will describe the installation process. In my case, I am going to install it on my Kali machine (2020.4).\nNessus provides an \u0026ldquo;Essential\u0026rdquo; plan that allows students and those starting their cyber security career or anyone interested to use the product, to scan up to 16 unique IP addresses (after going through the Nessus UI, I learned that after 90 days of the last scan of a host or an IP, it will not count against the limit of 16 - which is a nice feature they offer). If it is for professional use, it would be better off to upgrade to a \u0026ldquo;Professional\u0026rdquo; plan as that would provide more advanced features (such as perform compliance checks or content audits, live results or use the Nessus virtual appliance)\nStep 1: Register for an activation code and download Nessus Navigate to the registration page here and register for an activation code that will be sent to the email address provided. Upon successful registration, you\u0026rsquo;ll be redirected to a page where you can download the installer as well. You can also directly navigate to the downloads page here and register for an activation code during the setup phase later as well. Ensure that you download the correct version listed on the downloads page. You can use the command uname -a to check your architecture. I downloaded the following version from my Kali machine:\n Step 2: Install and start the service Once the download is complete, navigate to the \u0026ldquo;Downloads\u0026rdquo; folder or to the location you saved the file. (Note: With Kali 2020.4, the default shell is based on zsh and not bash. It allows changing directory just by entering the path and does not require the cd command, although that would work as well). Next, use the dpkg command as the root user if you are not (which you should not be unless required). It is a quick install and does not take too long for it to complete. Once the installation is completed, you need to start the Nessus service using the systemctl command.\n\n\nStep 3: Navigate to the Nessus UI to activate and finish the installation By default, the Nessus UI is accessible on port 8834 and so, navigating to https://localhost:8834/ should greet you with a welcome page and the setup prompt (Note: Since you are hosting this on a personal workspace and it doesn\u0026rsquo;t have an SSL certificate by default, you would receive a warning which you may accept and continue).\n\n\nAfter choosing the product plan, Nessus Essentials, in this case, you can use the activation code and details received during Step 1 and complete the activation process. If at all you have not got an activation code yet or you did not register during Step 1 earlier, you can register for an activation code from here as well. After completing the registration process, you are ready to start using Nessus.\n Hopefully, the installation process went well and you are now able to use, learn and play around with Nessus. In a future post, I will go through the various scanning options and settings available in the Nessus Essential Plan. If you have any feedback or find any silly errors, please do leave a comment or get in touch.\n"
+},
+{
+	"uri": "https://zysec.space/tags/nessus/",
+	"title": "Nessus",
 	"tags": [],
 	"categories": [],
 	"series": [],
@@ -34,15 +43,6 @@
 	"series": [],
 	"description": "",
 	"content": ""
-},
-{
-	"uri": "https://zysec.space/posts/quickupdate/",
-	"title": "Quick Update",
-	"tags": ["Azure"],
-	"categories": [],
-	"series": [""],
-	"description": "",
-	"content": "Hello there! Thank you for stopping by again. It has been a while since I updated my blog. Well, as you are already aware of the events happening around the globe, I have been (and am still) trying to hold myself up!\nDuring the summer, I was working on my master\u0026rsquo;s thesis, which was an exercise of both, success and failure (more on this later)! With tremendous support from my family, friends and my project supervisor, I successfully submitted the thesis last month!\nDue to the pandemic, my internship came to an abrupt end in June. I have been looking for new roles and opportunities since then. On the brighter side, I also decided to keep myself occupied and upskill. As a result, I was fortunate to successfully clear the Microsoft Azure Fundamentals certification (AZ-900) exam.\nYou can view my achievements here. I am hoping to write more blogs over the coming days! In the meantime, I hope you are keeping well and staying safe 😊\n"
 },
 {
 	"uri": "https://zysec.space/series/",
@@ -61,6 +61,33 @@
 	"series": [],
 	"description": "",
 	"content": ""
+},
+{
+	"uri": "https://zysec.space/tags/vulnerability-scanners/",
+	"title": "Vulnerability Scanners",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://zysec.space/tags/azure/",
+	"title": "Azure",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "https://zysec.space/posts/quickupdate/",
+	"title": "Quick Update",
+	"tags": ["Azure"],
+	"categories": [],
+	"series": [""],
+	"description": "",
+	"content": "Hello there! Thank you for stopping by again. It has been a while since I updated my blog. Well, as you are already aware of the events happening around the globe, I have been (and am still) trying to hold myself up!\nDuring the summer, I was working on my master\u0026rsquo;s thesis, which was an exercise of both, success and failure (more on this later)! With tremendous support from my family, friends and my project supervisor, I successfully submitted the thesis last month!\nDue to the pandemic, my internship came to an abrupt end in June. I have been looking for new roles and opportunities since then. On the brighter side, I also decided to keep myself occupied and upskill. As a result, I was fortunate to successfully clear the Microsoft Azure Fundamentals certification (AZ-900) exam.\nYou can view my achievements here. I am hoping to write more blogs over the coming days! In the meantime, I hope you are keeping well and staying safe 😊\n"
 },
 {
 	"uri": "https://zysec.space/posts/free_vmware/",
