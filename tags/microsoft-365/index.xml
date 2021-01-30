@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Microsoft 365 on ZySec</title>
+    <link>https://zysec.space/tags/microsoft-365/</link>
+    <description>Recent content in Microsoft 365 on ZySec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>thenytfury@zysec.space (Mohammed Zanil)</managingEditor>
+    <webMaster>thenytfury@zysec.space (Mohammed Zanil)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 30 Jan 2021 11:03:45 +0000</lastBuildDate>
+    
+        <atom:link href="https://zysec.space/tags/microsoft-365/index.xml" rel="self" type="application/rss+xml"/>
+    
+    
+    
+      
+      <item>
+        <title>Microsoft 365 Certified Security Administrator Associate</title>
+        <link>https://zysec.space/posts/ms500/</link>
+        <pubDate>Sat, 30 Jan 2021 11:03:45 +0000</pubDate>
+        <author>thenytfury@zysec.space (Mohammed Zanil)</author>
+        <guid>https://zysec.space/posts/ms500/</guid>
+        <description>Hello there - Hope you are staying safe and doing everything to protect yourself and those around you during this difficult time. After a short break, I am back with a small post and a positive news. I am happy and excited to share that I have successfully completed the MS-500 Microsoft 365 Certified Security Administrator Associate certification today.</description>
+      </item>
+      
+    
+  </channel>
+</rss>
